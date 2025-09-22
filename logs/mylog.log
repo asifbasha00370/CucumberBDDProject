@@ -1,0 +1,23 @@
+[INFO ] 2025-09-10 14:51:56.212 [main] steps - Setup1 Executed.....
+[INFO ] 2025-09-10 14:51:56.259 [main] steps - ******Launching Browser******
+[INFO ] 2025-09-10 14:51:57.738 [main] steps - ******Opening URL******
+[INFO ] 2025-09-10 14:51:58.099 [main] steps - ******Providing Login Details******
+[INFO ] 2025-09-10 14:52:00.477 [main] steps - ******Started Login******
+[INFO ] 2025-09-10 14:52:13.408 [main] steps - ******Adding new Customer******
+[INFO ] 2025-09-10 14:52:13.408 [main] steps - ******Provivding Customer details******
+[INFO ] 2025-09-10 14:52:14.478 [main] steps - ******Saving Customer data******
+[INFO ] 2025-09-10 14:52:16.061 [main] steps - ******Close Browser******
+[INFO ] 2025-09-10 14:52:17.082 [main] steps - Setup2 Executed.....
+[INFO ] 2025-09-10 14:52:17.174 [main] steps - ******Launching Browser******
+[INFO ] 2025-09-10 14:52:17.740 [main] steps - ******Opening URL******
+[INFO ] 2025-09-10 14:52:18.047 [main] steps - ******Providing Login Details******
+[INFO ] 2025-09-10 14:52:20.367 [main] steps - ******Started Login******
+[INFO ] 2025-09-10 14:52:27.846 [main] steps - ******Searching customer Email ID******
+[INFO ] 2025-09-10 14:52:31.586 [main] steps - ******Close Browser******
+[INFO ] 2025-09-10 14:52:32.382 [main] steps - Setup2 Executed.....
+[INFO ] 2025-09-10 14:52:32.417 [main] steps - ******Launching Browser******
+[INFO ] 2025-09-10 14:52:32.938 [main] steps - ******Opening URL******
+[INFO ] 2025-09-10 14:52:33.319 [main] steps - ******Providing Login Details******
+[INFO ] 2025-09-10 14:52:35.229 [main] steps - ******Started Login******
+[INFO ] 2025-09-10 14:52:43.029 [main] steps - ******Searching customer FirstName******
+[INFO ] 2025-09-10 14:52:46.316 [main] steps - ******Close Browser******
